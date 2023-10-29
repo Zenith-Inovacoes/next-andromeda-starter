@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Favicon
+
+Put all the files of Favicon inside _public_ folder
+
+Configfure all of Favicon inside _src/components/Favicon.tsx_ file
+
+## SEO
+
+Do all the SEO configuration inside _next-seo.config.ts_ file
+
+## Configurando Google Analytics
+
+If there is a Google Analytics tag, put the tag inside _.env_ file and uncomment in _src/pages/_document.tsx_ whenever a Google Tag comment exists
+
 ## Getting Started
 
 First, run the development server:
