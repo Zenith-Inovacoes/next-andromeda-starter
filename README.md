@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## What does this template includes ?
+
+- Storybook
+- Styled Components
+- React Icons
+- Prettier
+- ESLint
+- Next SEO
+- Framer Motion
+
 ## Favicon
 
 Put all the files of Favicon inside _public_ folder
